@@ -22,8 +22,5 @@ public class LTI_Records {
 	}
 	public void setCloudgroups(String cloudgroups) {
 		this.cloudgroups = cloudgroups;
-	}
-
-	
-	
+	}	
 }
